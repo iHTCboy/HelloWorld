@@ -1,8 +1,8 @@
 # Hello-word
 
 ### Often
-- [Google](http://www.google.com target="_blank")
-- [GitHub](https://github.com "title" target="_blank")
+- [Google](http://www.google.com)
+- [GitHub](https://github.com){:target="_blank"}
 - [Stack Overflow](http://stackoverflow.com)
 - [简书 - 创作你的创作](http://www.jianshu.com)
 
