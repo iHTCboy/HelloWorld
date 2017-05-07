@@ -1,18 +1,18 @@
 # Hello-word
 
 ### Often
-- [Google](http://www.google.com){:target="_blank"}
-- [GitHub](https://github.com){:target="_blank"}
-- [Stack Overflow](http://stackoverflow.com){:target="_blank"}
-- [简书 - 创作你的创作](http://www.jianshu.com){:target="_blank"}
+- [Google](http://www.google.com target="_blank")
+- [GitHub](https://github.com "title" target="_blank")
+- [Stack Overflow](http://stackoverflow.com)
+- [简书 - 创作你的创作](http://www.jianshu.com)
 
 ---
 
 ### Apple
-- [Apple (中国) - 官方网站](https://www.apple.com/cn/){:target="_blank"}
-- [管理Apple ID](https://appleid.apple.com/cn){:target="_blank"}
-- [报告问题 App退款](https://reportaproblem.apple.com){:target="_blank"}
-- [iCloud Web版](https://www.icloud.com){:target="_blank"}
+- [Apple (中国) - 官方网站](https://www.apple.com/cn/)
+- [管理Apple ID](https://appleid.apple.com/cn)
+- [报告问题 App退款](https://reportaproblem.apple.com)
+- [iCloud Web版](https://www.icloud.com)
 
 ---
 
