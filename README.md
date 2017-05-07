@@ -2,6 +2,7 @@
 
 ### Often
 - <a href="http://www.google.com" target="_blank">Google</a>
+<a href="http://example.com/" target="_blank">example</a>
 - [Google](http://www.google.com)
 - [GitHub](https://github.com)
 - [Stack Overflow](http://stackoverflow.com)
