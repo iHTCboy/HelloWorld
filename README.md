@@ -1,8 +1,9 @@
 # Hello-word
 
 ### Often
+- <a href="http://www.google.com" target="_blank">Google</a>
 - [Google](http://www.google.com)
-- [GitHub](https://github.com){:target="_blank"}
+- [GitHub](https://github.com)
 - [Stack Overflow](http://stackoverflow.com)
 - [简书 - 创作你的创作](http://www.jianshu.com)
 
