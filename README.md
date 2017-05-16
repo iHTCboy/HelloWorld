@@ -1,8 +1,6 @@
 # Hello-word
 
 ### Often
-- <a href="http://www.google.com" target="_blank">Google</a>
-<a href="http://example.com/" target="_blank">example</a>
 - [Google](http://www.google.com)
 - [GitHub](https://github.com)
 - [Stack Overflow](http://stackoverflow.com)
@@ -25,6 +23,7 @@
 - [Open Source](https://opensource.apple.com)
 - [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
+- [News and Updates - Apple Developer](https://developer.apple.com/news/)
 ---
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
