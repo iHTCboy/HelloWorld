@@ -24,6 +24,7 @@
 - [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
 - [News and Updates - Apple Developer](https://developer.apple.com/news/)
+- [Search - Apple Developer](https://developer.apple.com/search/)
 ---
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
@@ -69,6 +70,20 @@
 - []()
 
 ---
+
+### IT Blog
+- [美团点评技术团队](http://tech.meituan.com)
+- [iOSRE](http://bbs.iosre.com)
+- [@Get社区](http://get.ftqq.com)
+- [Coding 博客](https://blog.coding.net)
+- [慕课网-程序员的梦工厂](http://www.imooc.com)
+- [Glow 技术团队博客](http://tech.glowing.com/cn/)
+- [Yet Another Summer Rain | Yet Another Summer Rain](https://www.liaohuqiu.net/cn/)
+- [字节技术](http://www.4byte.cn)
+- [有赞技术团队](http://tech.youzan.com)
+- [QunarFlight团队博客](http://blog.flight.dev.qunar.com)
+
+
 
 ### Other
 
