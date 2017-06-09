@@ -26,6 +26,7 @@
 - [News and Updates - Apple Developer](https://developer.apple.com/news/)
 - [Search - Apple Developer](https://developer.apple.com/search/)
 - [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
+- [What's New in iOS](https://developer.apple.com/library/content/releasenotes/General/WhatsNewIniOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008244-SW1)
 ---
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
