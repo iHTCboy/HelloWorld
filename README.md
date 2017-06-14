@@ -16,7 +16,7 @@
 
 ---
 
-### iOS
+### iOS Developer
 - [Apple Developer](https://developer.apple.com)
 - [iTunes Connect](https://itunesconnect.apple.com)
 - [申请加速审核 Contact the App Review Team](https://developer.apple.com/contact/app-store/?topic=expedite)
@@ -27,6 +27,8 @@
 - [Search - Apple Developer](https://developer.apple.com/search/)
 - [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
 - [What's New in iOS](https://developer.apple.com/library/content/releasenotes/General/WhatsNewIniOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008244-SW1)
+- [Xcode Help](http://help.apple.com/xcode)
+
 ---
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
