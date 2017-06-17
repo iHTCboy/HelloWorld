@@ -86,7 +86,7 @@
 - [字节技术](http://www.4byte.cn)
 - [有赞技术团队](http://tech.youzan.com)
 - [QunarFlight团队博客](http://blog.flight.dev.qunar.com)
-
+- [阿里中间件团队博客](http://jm.taobao.org)
 
 
 ### Other
