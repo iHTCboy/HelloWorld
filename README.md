@@ -17,28 +17,34 @@
 ---
 
 ### iOS Developer
+#### iOS Manager
 - [Apple Developer](https://developer.apple.com)
 - [iTunes Connect](https://itunesconnect.apple.com)
-- [申请加速审核 Contact the App Review Team](https://developer.apple.com/contact/app-store/?topic=expedite)
-- [Open Source](https://opensource.apple.com)
-- [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
+- [Contact the App Review Team 申请加速审核](https://developer.apple.com/contact/app-store/?topic=expedite)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
-- [News and Updates - Apple Developer](https://developer.apple.com/news/)
+
+#### iOS Document & News
 - [Search - Apple Developer](https://developer.apple.com/search/)
-- [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
+- [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
+- [News and Updates - Apple Developer](https://developer.apple.com/news/)
 - [What's New in iOS](https://developer.apple.com/library/content/releasenotes/General/WhatsNewIniOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008244-SW1)
 - [Xcode Help](http://help.apple.com/xcode)
+- [Open Source](https://opensource.apple.com)
+- [App Store Review Guidelines 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
 
+### iOS Advancement
 ---
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
 - [NSHipster](http://nshipster.com)
 - [NSHipster 中文版](http://nshipster.cn)
+
 ---
 - [ASCIIwwdc - Searchable full-text transcripts of WWDC sessions](http://asciiwwdc.com)
 - [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](https://www.raywenderlich.com)
 - [CocoaChina_让移动开发更简单](http://www.cocoachina.com)
 - [iOS Dev Weekly - The best iOS development links, every Friday](https://iosdevweekly.com)
+
 ---
 - Tool
 - [码云 - 开源中国代码托管平台](https://git.oschina.net)
@@ -47,6 +53,7 @@
 - [Code4App-分类列表](http://www.code4app.com/category)
 - [UI4App - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch](http://www.ui4app.com)
 - [ios - 问题 - SegmentFault](https://segmentfault.com/t/ios)
+
 ---
 - [iOS - 掘金 - juejin.im - 高质量的技术社区](https://juejin.im/welcome/ios)
 - [IOS - OPEN开发经验库](http://www.open-open.com/lib/tag/IOS)
