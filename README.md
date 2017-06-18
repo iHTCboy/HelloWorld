@@ -32,8 +32,8 @@
 - [Open Source](https://opensource.apple.com)
 - [App Store Review Guidelines 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
 
-### iOS Advancement
 ---
+### iOS Advancement
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
 - [NSHipster](http://nshipster.com)
@@ -50,26 +50,29 @@
 - [码云 - 开源中国代码托管平台](https://git.oschina.net)
 - [Custom Controls for iOS, macOS, tvOS, and watchOS - Cocoa Controls](https://www.cocoacontrols.com)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com - Powered by Discuz!](http://code4app.com)
-- [Code4App-分类列表](http://www.code4app.com/category)
+- [Code4App-iOS代码分类列表](http://www.code4app.com/category)
 - [UI4App - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch](http://www.ui4app.com)
-- [ios - 问题 - SegmentFault](https://segmentfault.com/t/ios)
+- [iOS - 问题 - SegmentFault](https://segmentfault.com/t/ios)
 
 ---
+- 
 - [iOS - 掘金 - juejin.im - 高质量的技术社区](https://juejin.im/welcome/ios)
 - [IOS - OPEN开发经验库](http://www.open-open.com/lib/tag/IOS)
 - [iOS开发社区 - 开源中国社区](http://www.oschina.net/ios)
 - [IOS_网络编程_第七城市](http://www.th7.cn/Program/IOS/)
-- []()
+- [iOSRE](http://bbs.iosre.com)
 - []()
 
 ---
 
 ### Swift
+- [Swift - Apple Developer](https://developer.apple.com/swift/)
+- [Swift.org](https://swift.org)
+- [We ❤ Swift](https://www.weheartswift.com)
+- [SwiftDoc.org — Auto-generated documentation for Swift. Command-click no more.](http://swiftdoc.org)
+- [Swift 教程 - Swift 语言学习 - Swift code - SwiftGG 翻译组 - 高质量的 Swift 译文网站](http://swift.gg)
 - [Swift教學 • iOS App程式設計入門 • AppCoda](http://www.appcoda.com.tw)
-- []()
-- []()
-- []()
-- []()
+- [Swift中国 - 做最好的Swift中文社区](http://swiftcn.io)
 
 ---
 
