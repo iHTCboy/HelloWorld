@@ -17,13 +17,13 @@
 ---
 
 ### iOS Developer
-#### iOS Manager
+##### iOS Manager
 - [Apple Developer](https://developer.apple.com)
 - [iTunes Connect](https://itunesconnect.apple.com)
 - [Contact the App Review Team 申请加速审核](https://developer.apple.com/contact/app-store/?topic=expedite)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
 
-#### iOS Document & News
+##### iOS Document & News
 - [Search - Apple Developer](https://developer.apple.com/search/)
 - [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
 - [News and Updates - Apple Developer](https://developer.apple.com/news/)
@@ -34,6 +34,7 @@
 - [iTunes Connect 开发者指南 (iTunes Connect Developer Guide)](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide_zh_CN/Chapters/About.html#//apple_ref/doc/uid/TP40016325-CH1-SW1)
 
 ---
+
 ### iOS Advancement
 - [objc.io](https://www.objc.io)
 - [ObjC 中国](https://www.objccn.io)
@@ -47,7 +48,7 @@
 - [iOS Dev Weekly - The best iOS development links, every Friday](https://iosdevweekly.com)
 
 ---
-- Tool
+##### Tool
 - [码云 - 开源中国代码托管平台](https://git.oschina.net)
 - [Custom Controls for iOS, macOS, tvOS, and watchOS - Cocoa Controls](https://www.cocoacontrols.com)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com - Powered by Discuz!](http://code4app.com)
@@ -55,8 +56,8 @@
 - [UI4App - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch](http://www.ui4app.com)
 - [iOS - 问题 - SegmentFault](https://segmentfault.com/t/ios)
 
----
-- 
+--- 
+##### iOS Blog
 - [iOS - 掘金 - juejin.im - 高质量的技术社区](https://juejin.im/welcome/ios)
 - [IOS - OPEN开发经验库](http://www.open-open.com/lib/tag/IOS)
 - [iOS开发社区 - 开源中国社区](http://www.oschina.net/ios)
