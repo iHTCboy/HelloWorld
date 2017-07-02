@@ -100,6 +100,17 @@
 - [阿里中间件团队博客](http://jm.taobao.org)
 
 
+### Design
+- [Dribbble - Show and tell for designers](https://dribbble.com)
+- [Reeoo - web design inspiration and website gallery](http://reeoo.com)
+- [Land-book - the finest hand-picked website inspirations](https://land-book.com)
+- [Behance :: Behance 作品精选](https://www.behance.net)
+- [Calltoidea - Light up your imagination](http://www.calltoidea.com)
+
+- Personal
+- [Xiao Han (@hx1125) · Instagram](https://www.instagram.com/hx1125/)
+
+
 ### Other
 
 - [We are what we do | Meetup](http://www.meetup.com)
