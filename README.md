@@ -120,5 +120,30 @@
 
 ---
 
+### Open API
+- [微信开放平台](https://open.weixin.qq.com)
+- [微信公众平台](https://mp.weixin.qq.com)
+- [腾讯开放平台|众创空间](http://open.qq.com)
+- [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
+- [百度开发者中心-汇聚、开放、助力、共赢](http://developer.baidu.com)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+---
+
+
+
+
 
 
