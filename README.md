@@ -63,7 +63,7 @@
 - [iOS开发社区 - 开源中国社区](http://www.oschina.net/ios)
 - [IOS_网络编程_第七城市](http://www.th7.cn/Program/IOS/)
 - [iOSRE](http://bbs.iosre.com)
-- []()
+- [V2EX](http://cn.v2ex.com)
 
 ---
 
@@ -100,7 +100,41 @@
 - [QunarFlight团队博客](http://blog.flight.dev.qunar.com)
 - [阿里中间件团队博客](http://jm.taobao.org)
 
+#### Personal Blog
+- [廖雪峰的官方网站](https://www.liaoxuefeng.com)
+
+
 ---
+
+### React Native
+- [React Native | A framework for building native apps using React](https://facebook.github.io/react-native/)
+- [React Native 中文网](http://reactnative.cn)
+- [w3school 在线教程](http://www.w3school.com.cn/index.html)
+- [Atom 中文社区](https://atom-china.org)
+- [React Native专题 | 江清清的技术专栏](http://www.lcode.org/react-native/)
+- []()
+
+---
+
+### IT Courses
+- [Free How-To Tutorials & Online Courses by Envato Tuts+](https://tutsplus.com)
+- [泊学 - 一个全栈工程师的自学网站](https://boxueio.com)
+- [SwiftV课堂 - 中国最大的Swift视频学习站](http://www.swiftv.cn)
+- [Laravel 视频教程 - CODECASTS](https://www.codecasts.com)
+- []()
+
+
+---
+
+### Official Website
+- [SQLite Home Page](http://www.sqlite.org/index.html)
+- []()
+- []()
+- []()
+- []()
+
+---
+
 
 ### Design
 - [Dribbble - Show and tell for designers](https://dribbble.com)
