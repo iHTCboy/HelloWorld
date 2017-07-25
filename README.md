@@ -126,19 +126,17 @@
 - [腾讯开放平台|众创空间](http://open.qq.com)
 - [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
 - [百度开发者中心-汇聚、开放、助力、共赢](http://developer.baidu.com)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
+- [fir.im - 免费应用内测托管平台|iOS应用Beta测试分发|Android应用内测分发](https://fir.im)
+- [蒲公英 - 免费的应用托管平台|App应用众测分发](https://www.pgyer.com)
+- [Pre.im_APP内测平台_免费应用内测分发托管平台](http://pre.im)
+- [极光｜数据改变世界](https://www.jiguang.cn)
+- [豆瓣开发者服务](https://developers.douban.com)
+- [高德开放平台 | 高德地图API](http://lbs.amap.com)
+- [中国银联商家技术服务](https://open.unionpay.com/ajweb/index)
+- [百度移动统计|移动应用APP统计|android统计分析|iOS统计分析](https://mtj.baidu.com/web/welcome/login)
+- [Bugtags官网 - 移动时代首选Bug管理系统 | 简洁·高效·智能·云端管理](https://www.bugtags.com)
+- [bugclose | 简单，免费，够用的BUG管理工具](https://bugclose.com/index.html)
+- [BeeCloud | 全新的秒支付应用支付接口 支持移动支付 | 加速移动App开发](https://www.beecloud.cn)
 
 ---
 
