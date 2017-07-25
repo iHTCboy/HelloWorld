@@ -55,6 +55,7 @@
 - [Code4App-iOS代码分类列表](http://www.code4app.com/category)
 - [UI4App - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch](http://www.ui4app.com)
 - [iOS - 问题 - SegmentFault](https://segmentfault.com/t/ios)
+- [DevDocs API Documentation](http://devdocs.io)
 
 --- 
 ##### iOS Blog
@@ -121,7 +122,7 @@
 - [泊学 - 一个全栈工程师的自学网站](https://boxueio.com)
 - [SwiftV课堂 - 中国最大的Swift视频学习站](http://www.swiftv.cn)
 - [Laravel 视频教程 - CODECASTS](https://www.codecasts.com)
-- []()
+- [慕课网-程序员的梦工厂](http://www.imooc.com)
 
 
 ---
@@ -129,9 +130,7 @@
 ### Official Website
 - [SQLite Home Page](http://www.sqlite.org/index.html)
 - []()
-- []()
-- []()
-- []()
+
 
 ---
 
@@ -142,6 +141,12 @@
 - [Land-book - the finest hand-picked website inspirations](https://land-book.com)
 - [Behance :: Behance 作品精选](https://www.behance.net)
 - [Calltoidea - Light up your imagination](http://www.calltoidea.com)
+- [设计达人 | 爱设计，爱分享。](http://www.shejidaren.com)
+- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn)
+- [Iconfinder - 1,800,000+ free and premium icons](https://www.iconfinder.com)
+- [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com)
+- [sketch.im](http://sketch.im)
+- [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/index.html)
 
 ##### Personal
 - [Xiao Han (@hx1125) · Instagram](https://www.instagram.com/hx1125/)
@@ -151,6 +156,16 @@
 ### Other
 
 - [We are what we do | Meetup](http://www.meetup.com)
+- [IT eBooks - Free Download - Big Library](http://www.it-ebooks.info)
+- [ProcessOn - 免费在线作图，实时协作](https://www.processon.com)
+- [大家分享的脑图 | ProcessOn](https://www.processon.com/popular)
+- [草料二维码生成器](http://cli.im)
+- [新网域名自助管理平台](http://dcp.xinnet.com/Modules/agent/domain/domain_manage.jsp)
+- [云梯 VPN - 连接世界的梯子](https://www.ytpub.com)
+- [百度云搜索，百度云盘资源下载，百度网盘搜索 - 搜百度盘](http://www.sobaidupan.com)
+- [盘多多-百度云盘-百度云搜索-百度云盘资源搜索-百度网盘搜索引擎-微盘,新浪微盘-网盘搜索_盘多多](http://www.panduoduo.net)
+- [网站源码下载,A5源码 - 更快的站长下载站](http://down.admin5.com)
+- []()
 
 ---
 
