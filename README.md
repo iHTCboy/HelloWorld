@@ -32,7 +32,7 @@
 - [Open Source](https://opensource.apple.com)
 - [App Store Review Guidelines 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/)
 - [iTunes Connect 开发者指南 (iTunes Connect Developer Guide)](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide_zh_CN/Chapters/About.html#//apple_ref/doc/uid/TP40016325-CH1-SW1)
--[使用 Application Loader](http://help.apple.com/itc/apploader/#/)
+- [使用 Application Loader](http://help.apple.com/itc/apploader/#/)
 
 ---
 
