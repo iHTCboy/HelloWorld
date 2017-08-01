@@ -188,6 +188,7 @@
 - [bugclose | 简单，免费，够用的BUG管理工具](https://bugclose.com/index.html)
 - [BeeCloud | 全新的秒支付应用支付接口 支持移动支付 | 加速移动App开发](https://www.beecloud.cn)
 
+- [AppsFlyer Support](https://support.appsflyer.com/hc/zh-cn)
 ---
 
 
