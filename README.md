@@ -101,6 +101,7 @@
 - [有赞技术团队](http://tech.youzan.com)
 - [QunarFlight团队博客](http://blog.flight.dev.qunar.com)
 - [阿里中间件团队博客](http://jm.taobao.org)
+- [Bugly技术团队博客 | 一种愉悦的开发方式](https://buglydevteam.github.io)
 
 #### Personal Blog
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com)
