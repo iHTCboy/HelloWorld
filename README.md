@@ -195,6 +195,11 @@
 
 
 
+### Android Dev
+- [下载 Android Studio 和 SDK 工具 | Android Studio](https://developer.android.com/studio/index.html)
+- [AndroidDevTools Android SDK下载 Android Studio下载 Gradle下载 SDK Tools下载](http://www.androiddevtools.cn/index.html)
+- [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+- [Android Studio 中文社区 -Android App开发工具集-Android SDK/JDK/ADT/Gradle-2.0/2.2下载/安装/教程](http://www.android-studio.org)
 
 
 
