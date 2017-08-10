@@ -17,7 +17,7 @@
 ---
 
 ### iOS Developer
-##### iOS Manager
+##### iOS App Manager
 - [Apple Developer](https://developer.apple.com)
 - [iTunes Connect](https://itunesconnect.apple.com)
 - [Contact the App Review Team - Apple Developer](https://developer.apple.com/contact/app-store/)
