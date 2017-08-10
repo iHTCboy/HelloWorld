@@ -20,7 +20,9 @@
 ##### iOS Manager
 - [Apple Developer](https://developer.apple.com)
 - [iTunes Connect](https://itunesconnect.apple.com)
+- [Contact the App Review Team - Apple Developer](https://developer.apple.com/contact/app-store/)
 - [Contact the App Review Team 申请加速审核](https://developer.apple.com/contact/app-store/?topic=expedite)
+- [Promote - App Store - Contact Us - Apple Developer](https://developer.apple.com//contact/app-store/promote/)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
 
 ##### iOS Document & News
