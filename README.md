@@ -61,7 +61,7 @@
 - [iOS - 问题 - SegmentFault](https://segmentfault.com/t/ios)
 - [DevDocs API Documentation](http://devdocs.io)
 - [Apple ATS 在线检测工具 - TrustAsia](https://www.trustasia.com/tools-ats-ios9-checker)
-
+- [CocoaPods.org](https://cocoapods.org)
 --- 
 ##### iOS Blog
 - [iOS - 掘金 - juejin.im - 高质量的技术社区](https://juejin.im/welcome/ios)
@@ -195,6 +195,7 @@
 
 - [AppsFlyer Support](https://support.appsflyer.com/hc/zh-cn)
 - [Kakaogame SDK 3.0 Guide](https://tech-wiki.kakaogames.com:8443/display/SDK/1.3.+iOS+SDK+Installation)
+- [Facebook for Developers](https://developers.facebook.com)
 ---
 
 
