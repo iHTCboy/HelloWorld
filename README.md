@@ -46,10 +46,11 @@
 - [NSHipster 中文版](http://nshipster.cn)
 
 ---
-- [ASCIIwwdc - Searchable full-text transcripts of WWDC sessions](http://asciiwwdc.com)
 - [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](https://www.raywenderlich.com)
-- [CocoaChina_让移动开发更简单](http://www.cocoachina.com)
 - [iOS Dev Weekly - The best iOS development links, every Friday](https://iosdevweekly.com)
+- [ASCIIwwdc - Searchable full-text transcripts of WWDC sessions](http://asciiwwdc.com)
+- [The unofficial WWDC app for macOS](https://wwdc.io)
+- [CocoaChina_让移动开发更简单](http://www.cocoachina.com)
 
 ---
 ##### Tool
