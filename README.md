@@ -196,6 +196,7 @@
 
 - [AppsFlyer Support](https://support.appsflyer.com/hc/zh-cn)
 - [Kakaogame SDK 3.0 Guide](https://tech-wiki.kakaogames.com:8443/display/SDK/1.3.+iOS+SDK+Installation)
+- [Kakao GameCenter](https://gamecenter.kakao.com)
 - [Facebook for Developers](https://developers.facebook.com)
 ---
 
