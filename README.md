@@ -1,3 +1,5 @@
+[TOC]
+
 # Hello World
 
 ### Often
