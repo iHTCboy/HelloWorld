@@ -17,6 +17,10 @@
 
 ---
 
+- [Downloads for Apple Developers](https://developer.apple.com/download/more/)
+
+---
+
 ### iOS Developer
 ##### iOS App Manager
 - [Apple Developer](https://developer.apple.com)
