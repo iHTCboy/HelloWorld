@@ -143,7 +143,7 @@
 ### Official Website
 - [SQLite Home Page](http://www.sqlite.org/index.html)
 - [Standard C++https://isocpp.org)
-
+- [Welcome to Clang’s documentation! — Clang 6 documentation](http://clang.llvm.org/docs/index.html)
 
 ---
 
