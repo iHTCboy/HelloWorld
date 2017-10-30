@@ -41,6 +41,7 @@
 - [iTunes Connect 开发者指南 (iTunes Connect Developer Guide)](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide_zh_CN/Chapters/About.html#//apple_ref/doc/uid/TP40016325-CH1-SW1)
 - [使用 Application Loader](http://help.apple.com/itc/apploader/#/)
 - [Design - Human Interface Guidelines](https://developer.apple.com/design/)
+- [iTunes Connect 开发人员帮助](https://help.apple.com/itunes-connect/developer/?lang=cn#/)
 
 ---
 
