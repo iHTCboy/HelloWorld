@@ -42,6 +42,7 @@
 - [使用 Application Loader](http://help.apple.com/itc/apploader/#/)
 - [Design - Human Interface Guidelines](https://developer.apple.com/design/)
 - [iTunes Connect 开发人员帮助](https://help.apple.com/itunes-connect/developer/?lang=cn#/)
+- [iOS 部署参考](https://help.apple.com/deployment/ios/#/)
 
 ---
 
