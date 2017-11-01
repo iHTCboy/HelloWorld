@@ -43,6 +43,7 @@
 - [Design - Human Interface Guidelines](https://developer.apple.com/design/)
 - [iTunes Connect 开发人员帮助](https://help.apple.com/itunes-connect/developer/?lang=cn#/)
 - [iOS 部署参考](https://help.apple.com/deployment/ios/#/)
+- [Reporter 和 Autoingestion 用户指南](https://help.apple.com/itc/appsreporterguide/e3#/)
 
 ---
 
