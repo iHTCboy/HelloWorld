@@ -148,6 +148,7 @@
 - [SQLite Home Page](http://www.sqlite.org/index.html)
 - [Standard C++https://isocpp.org)
 - [Welcome to Clang’s documentation! — Clang 6 documentation](http://clang.llvm.org/docs/index.html)
+- [Pro Git book](https://git-scm.com/book/zh/v2)
 
 ---
 
