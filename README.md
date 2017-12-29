@@ -103,6 +103,12 @@
 
 ---
 
+### Jailbreak
+
+- [Cydia Impactor](http://www.cydiaimpactor.com)
+
+---
+
 ### IT Blog
 - [美团点评技术团队](http://tech.meituan.com)
 - [iOSRE](http://bbs.iosre.com)
