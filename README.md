@@ -154,6 +154,12 @@
 
 ---
 
+### Git
+- [git - 简明指南 the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+
+---
+
 ### Official Website
 - [SQLite Home Page](http://www.sqlite.org/index.html)
 - [Standard C++](https://isocpp.org)
