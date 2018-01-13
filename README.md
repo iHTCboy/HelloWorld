@@ -44,6 +44,7 @@
 - [iTunes Connect 开发人员帮助](https://help.apple.com/itunes-connect/developer/?lang=cn#/)
 - [iOS 部署参考](https://help.apple.com/deployment/ios/#/)
 - [Reporter 和 Autoingestion 用户指南](https://help.apple.com/itc/appsreporterguide/e3#/)
+- [Introduction to Coding Guidelines for Cocoa](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
 
 ---
 
@@ -93,6 +94,7 @@
 - [Swift 教程 - Swift 语言学习 - Swift code - SwiftGG 翻译组 - 高质量的 Swift 译文网站](http://swift.gg)
 - [Swift教學 • iOS App程式設計入門 • AppCoda](http://www.appcoda.com.tw)
 - [Swift中国 - 做最好的Swift中文社区](http://swiftcn.io)
+- [Swift 编程语言 – 可能是最用心的翻译了吧。](https://www.cnswift.org)
 
 ---
 
