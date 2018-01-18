@@ -242,5 +242,890 @@
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 - [Android Studio 中文社区 -Android App开发工具集-Android SDK/JDK/ADT/Gradle-2.0/2.2下载/安装/教程](http://www.android-studio.org)
 
+### PHP
+- https://secure.php.net/
+- https://pecl.php.net/
+- https://php-fpm.org/
+
+### GNU Make
+- https://www.gnu.org/software/make/
+
+### GNU Compiler Collection  (GCC) 
+- https://gcc.gnu.org/
+
+### CMake
+- https://cmake.org/
+
+### Squid
+- http://www.squid-cache.org/
+
+### NGINX
+- https://www.nginx.com/resources/wiki/
+- https://www.nginx.com/
+- https://nginx.org/
+- https://forum.nginx.org/
+- https://hg.nginx.org/
+- https://amplify.nginx.com/
+- https://status.amplify.nginx.com/
+- https://trac.nginx.org/
+- https://university.nginx.com/
+- https://cs.nginx.com/
+- https://mailman.nginx.org/
+- https://demo.nginx.com/
+
+### Linux Kernel
+- https://www.kernel.org/
+
+### Debian
+- https://www.debian.org/
+- https://backports.debian.org/
+- https://packages.debian.org/
+- https://wiki.debian.org/
+- https://security-tracker.debian.org/
+
+### Ubuntu
+- https://www.canonical.com/
+- http://www.ubuntu.com/
+- https://ubuntuforums.org/
+- http://manpages.ubuntu.com/
+- http://packages.ubuntu.com/
+- https://help.ubuntu.com/
+- https://wiki.ubuntu.com/
+- http://askubuntu.com/
+- https://launchpad.net/ubuntu/
+- https://apps.ubuntu.com/
+- http://community.ubuntu.com/
+- http://design.ubuntu.com/
+- https://developer.ubuntu.com/en/
+- https://insights.ubuntu.com/
+- https://ubuntu.cloud/
+- https://shop.canonical.com/
+
+### CentOS
+- https://www.centos.org/
+- https://seven.centos.org/
+- http://planet.centos.org/
+- https://bugs.centos.org/
+- https://wiki.centos.org/
+- https://lists.centos.org/
+- http://vault.centos.org/
+- http://mirror-status.centos.org/
+- https://www.centos.org/forums/
+
+### RedHat
+- https://www.redhat.com/en
+
+### Scientific Linux
+- https://www.scientificlinux.org/
+
+### FreeBSD
+- https://www.freebsd.org/
+
+### OpenBSD
+- http://www.openbsd.org/
+- http://man.openbsd.org/
+
+### GNU
+- https://www.gnu.org/
+
+### OpenSSH
+- http://www.openssh.com/
+
+### OpenSSL
+- https://www.openssl.org/
+
+### LibreSSL
+- http://www.libressl.org/
+
+### GnuTLS
+- https://www.gnutls.org/
+
+### BoringSSL
+- https://boringssl.googlesource.com/boringssl/
+
+### NSS-Crypto
+- https://nss-crypto.org/
+
+### VIM
+- http://www.vim.org/
+- http://www.openvim.com/
+
+### Nano
+- http://www.nano-editor.org/
+
+### TCPdump
+- http://www.tcpdump.org/
+
+### Virtualization
+- https://www.virtualbox.org/
+- http://www.parallels.com/
+- https://www.vmware.com/products/fusion
+- https://www.vmware.com/products/workstation
+
+### Cloud Platforms/Providers
+- https://www.brightbox.com/
+- https://www.scaleway.com/
+- https://www.heroku.com/
+- https://aws.amazon.com/
+- https://azure.microsoft.com/en-us/
+- https://cloud.google.com/
+- https://www.digitalocean.com/
+- https://www.linode.com/
+- https://www.vultr.com/
+- https://www.rackspace.com/
+
+### Books
+- https://github.com/denysdovhan/bash-handbook
+- https://debian-handbook.info/browse/stable/
+
+### Linux/Unix misc stuff
+- https://distrowatch.com/
+- https://www.linux.com/
+- https://serversforhackers.com/
+- https://www.linuxjournal.com/
+- http://www.opsschool.org/en/latest/
+- https://gnupg.org/
+- http://tldp.org/
+- https://gpgtools.org/
+- http://ss64.com/
+- https://xkcd.com
+- https://www.linuxquestions.org/
+- https://ubuntuforums.org/
+- https://linux.die.net/
+- http://forums.justlinux.com/
+- https://lwn.net/
+
+# TLS/SSL Security stuff
+
+### CAs
+- https://www.comodo.com/
+- https://ssl.comodo.com/
+- https://www.startssl.com/ (free)
+- https://www.digicert.com/
+- https://www.globalsign.com/en/
+- https://letsencrypt.org/ (free)
+- https://www.symantec.com/ssl-certificates/
+- https://www.geotrust.com/
+- https://www.rapidssl.com/
+- https://www.digicert.com/
+- https://www.identrust.com/
+- https://sslmate.com/
+- https://www.ssls.com/
+- https://www.gogetssl.com/
+- https://www.thawte.com/
+- https://buy.wosign.com/
+- https://certsimple.com/
+- https://www.positivessl.com/
+- https://www.entrust.com/
+- http://www.cacert.org/
+- https://hydrantid.com
+
+
+### Tools & guides
+- http://safecurves.cr.yp.to/
+- https://cc.dcsec.uni-hannover.de/
+- https://checktls.com/
+- https://gethttpsforfree.com/
+- https://www.whynopadlock.com/
+- https://www.keylength.com/
+- https://tls.secg.org/
+- https://www.google.com/transparencyreport/https/ct/
+- https://bettercrypto.org/
+- https://scans.io/
+- https://certbot.eff.org/
+- https://shaaaaaaaaaaaaa.com/
+- https://whatsmychaincert.com/
+- http://disablessl3.com/
+- https://certificatechain.io/
+- https://certificate.revocationcheck.com/
+- http://www.selfsignedcertificate.com/
+- https://sslanalyzer.comodoca.com/
+- https://crt.sh/
+- https://www.sslshopper.com/
+- https://cfssl.org/
+- https://hstspreload.org/
+- https://certificate.revocationcheck.com/
+- https://badssl.com/
+- http://breachattack.com/
+- https://securitychecklist.org/
+- https://www.howsmyssl.com/
+- https://letsencrypt.org/
+- https://www.ssllabs.com/
+- https://www.sslforfree.com/
+- https://httpswatch.com/global/
+- https://site-inspector.herokuapp.com/
+- https://edell.tlsfun.de/
+- https://testssl.sh/
+- https://ssl-tools.net/
+- https://mozilla.github.io/server-side-tls/ssl-config-generator/
+- https://certificatemonitor.org/
+- https://cipherli.st/
+- https://www.digicert.com/help/
+- https://www.sslchecker.com/
+- https://poodle.io/
+- https://ssldecoder.org/
+- https://istlsfastyet.com/
+- https://drownattack.com/
+- https://www.certificate-transparency.org/
+- https://www.htbridge.com/ssl/
+- https://mozilla.github.io/http-observatory-website/
+- https://freakattack.com/
+- http://heartbleed.com/
+- https://weakdh.org/
+- https://sslspdy.com/
+- https://https.cio.gov/
+- https://censys.io/
+- https://haveibeenpwned.com/
+- https://zmap.io/
+- https://domainscope.com/
+- https://www.wormly.com/test_ssl
+- https://httpoxy.org/
+- https://www.nartac.com/Products/IISCrypto
+- https://spdycheck.org/
+- https://starttls.info/
+- https://luxsci.com/extranet/tlschecker.html
+- https://xmpp.net/
+- https://certificatedetails.com/
+- http://checktls.com/
+- https://twofactorauth.org/
+- https://tls.imirhil.fr/
+- https://observatory.mozilla.org/
+- https://cryptoreport.geotrust.com/checker/
+- https://zerossl.com/
+- https://www.certificateautomation.com/
+- https://www.sslforfree.com/
+- https://gethttpsforfree.com/
+- https://snuck.me/
+- https://shattered.it/
+- https://tls-observatory.services.mozilla.com/static/ev-checker.html
+- https://howsecureismypassword.net/
+- https://securethe.news/
+- https://filippo.io/Heartbleed/
+
+# Frontend Development stuff
+- https://tools.keycdn.com/
+- https://redbot.org/
+- http://dnssec-debugger.verisignlabs.com/
+- http://tools.maxcdn.com/
+- https://dev.windows.com/en-us/microsoft-edge/
+- https://opendevicelab.com/
+- http://labs.jensimmons.com/
+- http://www.pearsonitcertification.com/
+- http://webkay.robinlinus.com/
+
+
+
+### Web icons(SVG, Symbol(Icon) Fonts...)
+- http://adamwhitcroft.com/batch/
+- https://fortawesome.com/
+- http://fontastic.me
+- https://thenounproject.com/
+- http://evil-icons.io/
+- https://icons8.com/#/ios
+- http://glyph.smarticons.co/
+- http://jxnblk.com/geomicons-open/
+- https://icomoon.io/app/#/select
+- https://design.google.com/icons/
+- http://app.fontastic.me/
+- http://blacktie.io/
+- http://fontawesome.io/
+- http://fontello.com/
+- https://simpleicons.org/
+- https://erikflowers.github.io/weather-icons/
+- https://fortawesome.com/sets
+- https://design.google.com/icons/
+- https://icons8.com/
+- http://simpleicon.com/
+- http://icon-works.com/
+- https://www.transformicons.com/
+- http://subtlepatterns.com/
+- http://www.flaticon.com/
+- https://worldvectorlogo.com/
+- https://octicons.github.com/
+- http://svgporn.com/
+- http://www.kameleon.pics/
+- http://www.webalys.com/
+- http://www.ego-icons.com/
+- http://www.streamlineicons.com/
+- http://www.nastyicons.com/
+- http://www.vectorian.net/
+- http://vorillaz.github.io/devicons/
+- https://linearicons.com/
+- http://ux.streamlineicons.com/
+- http://linea.io/
+
+### Emoji
+- http://www.emoji-cheat-sheet.com/
+- http://emojipedia.org/
+- http://getemoji.com/
+- https://emojiprinter.com/
+- http://emojione.com/
+- http://twitter.github.io/twemoji/
+- http://emoji.codes/
+- https://www.emojidex.com/
+- http://emojicopy.com/
+
+### Web accessibility stuff
+- http://a11yproject.com/
+- http://html5accessibility.com/
+- http://webaim.org/
+- https://accesslint.com/
+
+### HTTP
+
+- https://securityheaders.io/
+- https://httpsecurityreport.com/
+- https://www.httpvshttps.com/
+- https://httpstatuses.com/
+- https://www.httpvshttps.com/
+
+### HTTP/2
+
+- http://isthewebhttp2yet.com/
+- https://http2demo.cloudflare.com/
+- http://http2.loadimpact.com/entry/
+- https://nghttp2.org/
+- https://daniel.haxx.se/http2/
+
+### DNS
+
+- http://intodns.com/
+- https://howdns.works/
+- https://use.opendns.com/
+- https://developers.google.com/speed/public-dns/
+- https://www.whatsmydns.net/
+- https://dns.google.com/
+- https://sslmate.com/labs/caa/
+- https://dnsrecords.io/
+
+
+### CSP Tools
+
+- http://csptester.io/
+- http://www.cspplayground.com/
+- http://cspisawesome.com/
+- https://report-uri.io/home/analyse
+- https://report-uri.io/home/generate/
+- https://content-security-policy.com/
+
+### CORS
+
+- http://enable-cors.org/
+- http://client.cors-api.appspot.com/client
+
+### JSON
+
+- http://www.jsoneditoronline.org/
+- http://jsonlint.com/
+- https://jsonformatter.curiousconcept.com/
+
+### XSS
+
+- https://xss-game.appspot.com/
+- http://html5sec.org/
+
+### Perf
+
+- http://www.webpagetest.org/
+- http://tools.pingdom.com/fpt/
+- http://jankfree.org/
+- https://csstriggers.com/
+- http://www.perf-tooling.today/
+- http://imageoptimization.info/
+- http://perf.rocks/
+
+### Document Object Model (DOM)
+
+- https://livedom.validator.nu/
+- http://domenlightenment.com/
+
+### HTML & CSS Validators
+
+- https://validator.nu/
+- https://validator.w3.org/
+
+### Servers/Load Balancers
+
+- https://www.lighttpd.net/
+- https://httpd.apache.org/
+- http://trafficserver.apache.org/
+- http://tomcat.apache.org/
+- http://nginx.org/ & https://www.nginx.com/
+- http://www.iis.net/
+- https://h2o.examp1e.net/
+- https://eclipse.org/jetty/
+- https://www.litespeedtech.com/
+- http://netty.io/
+- http://open.litespeedtech.com/mediawiki/
+- http://www.haproxy.org/
+- https://varnish-cache.org/
+- http://cherokee-project.com/
+
+### CDNs
+
+- https://fontawesomecdn.com/
+- https://www.jsdelivr.com/
+- https://aws.amazon.com/cloudfront/
+- https://www.maxcdn.com/
+- https://cdnjs.com/
+- https://www.cloudflare.com/
+- https://www.keycdn.com/
+- https://www.akamai.com/
+- https://www.bootstrapcdn.com/
+- https://www.incapsula.com/
+- https://www.cdn77.com/
+- http://cdnsun.com/
+- https://www.fastly.com/
+- https://www.cachefly.com/
+- https://npmcdn.com/
+- https://ns1.com/
+- https://www.cachefly.com/
+- https://angularcdn.com/
+- https://www.jsdelivr.com
+
+### Hosting & Domain registrars
+
+- https://www.namecheap.com/
+- http://www.freenom.com/en/index.html
+- https://www.gandi.net/
+- https://iwantmyname.com/
+- https://www.namebright.com/
+- https://www.godaddy.com/
+- https://mediatemple.net/
+- https://domains.google.com/
+- https://www.networksolutions.com/
+- https://domainr.com/
+- https://www.dreamhost.com/
+- https://www.siteground.com/
+- https://www.bluehost.com/
+- https://www.name.com/
+- https://www.hover.com/
+- http://www.enom.com/
+- https://www.dynadot.com/
+- https://www.crazydomains.com/
+- https://www.1and1.com/
+- https://www.moniker.com/
+- https://www.register.com/
+- https://www.domain.com/
+- https://internetbs.net/
+- https://cart.web.com/domain/wizard
+- http://domainhelp.com/
+- https://www.101domain.com/
+- https://uniregistry.com/
+- https://www.hexonet.net/
+- https://www.uniteddomains.com/
+
+
+
+### Stats
+
+- http://httparchive.org/
+- http://www.alexa.com/
+- http://w3techs.com/
+
+### JS Linters
+
+- http://eslint.org/
+- http://jshint.com/
+- http://www.jslint.com/
+- http://jscs.info/
+
+### CSS
+
+- http://gridbyexample.com/
+- http://stateofwebtype.com/
+- http://oocss.org/
+- https://en.bem.info/
+- http://cssguidelin.es/
+- http://bradfrost.github.io/this-is-responsive/
+
+### Web Fonts
+- http://www.fontsquirrel.com/
+- https://everythingfonts.com/
+
+### Will see
+
+- http://overapi.com/
+- http://w3c.github.io/elements-of-html/
+- http://www.utf-8.com/
+- http://idgettr.com/
+- http://www.webbrowsercompatibility.com/
+- https://cooperpress.com/
+- http://caniuse.com/
+- https://www.tunetheweb.com/
+- https://www.chromestatus.com/features
+- https://dev.windows.com/en-us/microsoft-edge/platform/status/
+- https://www.mozilla.org/en-US/firefox/releases/
+- http://css3test.com/
+- https://html5sec.org/
+- https://html5test.com/
+- http://cssstats.com/
+- https://jonassebastianohlsson.com/criticalpathcssgenerator/
+- https://disqus.com/
+- https://developers.facebook.com/docs/plugins/comments/
+
+### Image Optimization Tools
+- https://compressor.io/
+- https://pngmini.com/
+- https://imageoptim.com/
+- https://tinypng.com/
+
+### WHOIS
+
+- https://whois.icann.org/en/
+- https://www.whois.net/
+- https://who.is/
+- http://whois.domaintools.com/
+- https://dnsimple.com/whois
+- http://www.gandi.net/whois
+- https://www.namecheap.com/domains/whois.aspx
+
+### DNS Hosting providers
+
+- https://dns.he.net/
+- https://ns1.com/
+- https://www.cloudflare.com/dns/
+- https://www.rackspace.com/cloud/dns
+- https://freedns.afraid.org/
+- https://www.cloudns.net/
+- http://www.geoscaling.com/
+- https://www.rage4.com/
+- http://www.buddyns.com/
+- http://cdncomparison.com/
+- https://constellix.com/
+- https://www.cloudflare.com/
+- https://www.cloudns.net/
+- https://freedns.afraid.org/
+- https://dnsimple.com/
+- https://dnsmadeeasy.com/
+- https://www.easydns.com/
+
+
+### Sublime Text stuff
+
+- https://packagecontrol.io/
+- https://github.com/Monnoroch/ColorHighlighter
+- https://github.com/weslly/ColorPicker
+- https://github.com/BoundInCode/AutoFileName
+- https://github.com/sindresorhus/sublime-autoprefixer
+- https://packagecontrol.io/packages/Seti_UI
+- https://github.com/kkga/spacegray
+- https://github.com/chriskempson/tomorrow-theme
+
+
+### Free books
+- http://exploringjs.com/
+- https://github.com/getify/You-Dont-Know-JS
+
+
+### Cascading Style Sheet (CSS)
+
+- http://flexboxfroggy.com/ 
+- http://flexbox.help/
+- https://en.bem.info
+- http://oocss.org
+- http://css3please.com
+- http://learnlayout.com
+- http://cssspecificity.com
+- http://www.csszengarden.com
+- http://wtfhtmlcss.com
+- http://pxtoem.com/
+
+
+### HyperText Markup Language (HTML)
+- http://wtfforms.com
+- http://codeguide.co/
+
+### JavaScript
+- http://es6-features.org/#Constants
+- https://hyperterm.org/
+
+### Browser stuff
+- https://peter.sh/commits/
+
+### Node.js stuff
+- http://expressjs.com/
+- http://socket.io/
+- http://mean.io/
+- https://nodejs.org/en/
+- https://iojs.org/en/
+- https://www.npmjs.com/
+
+### Weekly/Daily for staying up to date
+
+- https://perf.email/
+- http://webopsweekly.com/issues
+- http://www.devopsweekly.com/archive
+- http://javascriptweekly.com/issues
+- http://esnextnews.com/
+- http://css-weekly.com/archives/
+- http://webtoolsweekly.com/#archive
+- http://webanimationweekly.com/
+- http://csslayout.news/issues
+- http://html5weekly.com/issues
+- http://responsivedesignweekly.com/archive
+- https://web-design-weekly.com/archive/
+- http://androidweekly.net/
+- https://iosdevweekly.com/issues
+- http://statuscode.com/issues
+- http://frontenddevweekly.com/issues
+- http://www.phpweekly.com/archive.html
+- http://www.pythonweekly.com/archive/
+- http://rubyweekly.com/issues
+- https://webplatformdaily.org/
+- http://nodeweekly.com/issues
+- http://mobilewebweekly.co/issues
+- http://adripofjavascript.com/archive.html
+- http://dbweekly.com/issues
+- http://postgresweekly.com/issues
+- https://wdrl.info/archive
+- https://httpsweekly.com/
+
+### Data Interchange/configuration formats
+- http://www.yaml.org/
+- http://www.json.org/
+
+
+### Jekyll Stuff
+- https://jekyllrb.com/
+- http://jekyll.tips/
+- http://jekyllcodex.com/
+- http://jekyllthemes.org/
+- https://jekyllthemes.io/
+- http://themes.jekyllrc.org/
+- http://jekyllbootstrap.com/
+- http://yeswejekyll.com/
+- https://drjekyllthemes.github.io/
+
+
+### Static Site Generators
+- https://ghoost.com/
+- https://jekyllrb.com/
+- https://gohugo.io/
+- https://hexo.io/
+
+
+
+### Online Code Playgrounds
+- https://codepen.io/
+- https://jsfiddle.net/
+- https://jsbin.com/
+- http://dabblet.com/
+- http://www.sassmeister.com/
+- http://www.es6fiddle.net/
+- https://repl.it/
+- http://babeljs.io/repl/
+- https://google.github.io/traceur-compiler/demo/repl.html#
+- http://cssdeck.com/labs
+- https://jsconsole.com/
+- https://thimble.mozilla.org/en-US/
+- https://codio.com/
+- https://embed.plnkr.co/
+- http://marksheet.io/
+
+### CSS Preprocessors
+- http://stylus-lang.com/
+- http://lesscss.org/
+- http://sass-lang.com/
+
+### Frontend build tools
+- http://gulpjs.com/
+- http://gruntjs.com/
+- http://brunch.io/
+
+### FTP Clients & Servers
+- https://filezilla-project.org/
+- https://panic.com/transmit/
+- https://cyberduck.io/
+- http://www.coreftp.com/
+- https://winscp.net/eng/download.php
+- http://fireftp.net/
+- https://www.gftp.org/
+- https://security.appspot.com/vsftpd.html
+- https://www.smartftp.com/
+- https://www.flashfxp.com/
+- https://www.globalscape.com/cuteftp
+
+
+### Markdown stuff/tools
+- http://25.io/mou/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://joncom.be/experiments/markdown-editor/edit/
+- http://daringfireball.net/projects/markdown/dingus
+- http://kirkstrobeck.github.io/whatismarkdown.com/
+- https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide
+- http://www.markdowntutorial.com/
+- https://en.wikipedia.org/wiki/Markdown
+- http://dillinger.io/
+- https://daringfireball.net/projects/markdown/syntax
+- http://packetlife.net/media/library/16/Markdown.pdf
+- http://heckyesmarkdown.com/
+- https://pandoc.org/try/
+- https://daringfireball.net/projects/markdown/dingus
+- http://commonmark.org/
+
+### Templating languages stuff
+- http://handlebarsjs.com/
+- https://shopify.github.io/liquid/
+- https://mustache.github.io/
+- http://www.embeddedjs.com/
+- https://mozilla.github.io/nunjucks/
+- http://akdubya.github.io/dustjs/
+- http://html2jade.org/
+- https://pugjs.org/
+
+### CSS Tools
+- http://postcss.org/
+- http://editorconfig.org/
+- http://cssnano.co/
+- http://csscomb.com/
+
+### Web font services
+- http://fontdeck.com/
+- https://www.fontspring.com/
+- https://www.youworkforthem.com
+- https://typekit.com/
+- http://www.colophon-foundry.org/
+- https://www.myfonts.com/
+- http://www.a2-type.co.uk/
+- http://www.aisforapple.fr/
+
+### Learn to code
+- https://code.org/
+- https://bento.io/
+- https://www.codeavengers.com/
+- https://www.khanacademy.org/
+- https://codehs.com/
+- https://www.udacity.com/
+- http://sqlzoo.net/
+- https://www.freecodecamp.com/
+- https://www.coursera.org/
+- https://dash.generalassemb.ly/
+- http://nodeschool.io/
+- https://www.codecademy.com/
+- https://www.codeschool.com/
+- https://teamtreehouse.com/
+
+### 3rd party services
+- http://intensedebate.com/
+- http://web.livefyre.com/
+- https://disqus.com/
+- https://developers.facebook.com/docs/plugins/comments
+- http://www.wufoo.com/
+- https://cse.google.com/cse/
+- https://swiftype.com/
+- http://www.addsearch.com/
+- http://www.discourse.org/
+- https://www.kinvey.com/
+- https://parse.com/
+- https://surge.sh/
+- https://pages.github.com/
+- https://beegit.com/
+- http://word-to-markdown.herokuapp.com/
+- http://prose.io/
+- http://cloudcannon.com/
+- https://www.netlify.com/
+- http://harpjs.com/
+- https://www.harp.io/
+
+### Code/text editors
+- http://www.sublimetext.com/2
+- http://www.sublimetext.com/3
+- https://panic.com/coda/
+- https://macromates.com/
+- http://macrabbit.com/espresso/
+- http://brackets.io/
+- https://atom.io/
+- https://code.visualstudio.com/
+- https://www.jetbrains.com/
+- http://www.barebones.com/products/bbedit/
+- https://coderunnerapp.com/
+
+### Email clients
+- https://www.mozilla.org/en-US/thunderbird/
+- Apple Mail
+- Microsoft Outlook
+
+### Typography
+- http://type-scale.com/
+
+### Cloud coding
+- https://codeanywhere.com/
+- https://c9.io/
+
+### VCS
+- https://git-scm.com/
+- https://www.mercurial-scm.org/
+- https://subversion.apache.org/
+- http://www.nongnu.org/cvs/
+
+### Database
+- https://www.rabbitmq.com/
+- http://couchdb.apache.org/
+- https://www.mongodb.com/
+- https://sqlite.org/
+- https://mariadb.org/
+- https://www.postgresql.org/
+- http://www.mysql.com/
+- http://redis.io/
+
+
+### Node
+- http://sailsjs.org/
+- http://mean.io/
+- http://expressjs.com/
+- http://socket.io/
+
+### BitTorrent clients
+- http://www.qbittorrent.org/
+- https://www.utorrent.com/intl/en/
+- https://transmissionbt.com/
+- https://www.bittorrent.com/
+- https://www.bitcomet.com/en
+- http://deluge-torrent.org/
+
+### Bitcoin wallet clients
+
+### IRC Clients
+- https://www.codeux.com/textual/
+- http://colloquy.info/
+- https://weechat.org/
+- https://irssi.org/
+- http://limechat.net/
+- https://adium.im/
+- http://komanda.io/
+- http://xchat.org/
+- https://itunes.apple.com/us/app/linkinus/id402390998?mt=12
+- https://itunes.apple.com/us/app/linkinus-for-ipad-irc-client/id364899309?mt=8
+
+
+### ???
+- https://whatcms.org
+- https://www.punycoder.com/
+- http://mct.verisign-grs.com/
+- https://www.ghostdo.com/
+- http://logo-hunter.com
+- http://oops.re
+- https://www.brandsoftheworld.com
+- http://regexr.com/
+- http://www.bash.academy/
+
+### Python
+- https://www.python.org/
+- https://pypi.python.org/pypi
+- http://flask.pocoo.org/
+- https://www.djangoproject.com/
+- https://uwsgi-docs.readthedocs.io/en/latest/
+
+### Compression algorithms
+- https://brotli.org/
+- http://www.gzip.org/
+- http://www.gziptest.com/
+- https://checkgzipcompression.com/
+
+
+### Misc ( ͡° ͜ʖ ͡°)
+- https://www.lennyfaces.net
+- https://textfac.es
 
 
