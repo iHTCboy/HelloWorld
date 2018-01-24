@@ -45,6 +45,7 @@
 - [iOS 部署参考](https://help.apple.com/deployment/ios/#/)
 - [Reporter 和 Autoingestion 用户指南](https://help.apple.com/itc/appsreporterguide/e3#/)
 - [Introduction to Coding Guidelines for Cocoa](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
+- [Instruments User Guide: About Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652-CH3-SW1)
 
 ---
 
