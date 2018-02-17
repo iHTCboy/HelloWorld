@@ -5,7 +5,6 @@
 - [Google](http://www.google.com)
 - [GitHub](https://github.com)
 - [Stack Overflow](http://stackoverflow.com)
-- [简书 - 创作你的创作](http://www.jianshu.com)
 
 ---
 
@@ -145,6 +144,11 @@
 
 ---
 
+### Web
+- [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org)
+
+---
+
 ### IT Courses
 - [Free How-To Tutorials & Online Courses by Envato Tuts+](https://tutsplus.com)
 - [泊学 - 一个全栈工程师的自学网站](https://boxueio.com)
@@ -242,6 +246,12 @@
 - [AndroidDevTools Android SDK下载 Android Studio下载 Gradle下载 SDK Tools下载](http://www.androiddevtools.cn/index.html)
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 - [Android Studio 中文社区 -Android App开发工具集-Android SDK/JDK/ADT/Gradle-2.0/2.2下载/安装/教程](http://www.android-studio.org)
+
+
+
+---
+more
+---
 
 ### PHP
 - https://secure.php.net/
