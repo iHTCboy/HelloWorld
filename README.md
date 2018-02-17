@@ -146,6 +146,7 @@
 
 ### Web
 - [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org)
+- [Website Speed Test - Image Analysis Tool by Cloudinary](https://webspeedtest.cloudinary.com)
 
 ---
 
