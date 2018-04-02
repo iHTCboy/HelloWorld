@@ -174,12 +174,18 @@
 - [Clang’s documentation! — Clang 6 documentation](http://clang.llvm.org)
 - [Node.js](https://nodejs.org/zh-cn/)
 
+
 ---
 
 ### Ofther Language
 - [Ruby China](https://ruby-china.org)
 
 
+--- 
+
+### Software
+- [Hopper](https://www.hopperapp.com)
+- [IDA: a multi-processor disassembler and debugger](https://www.hex-rays.com/products/ida/index.shtml)
 
 ---
 
