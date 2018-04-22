@@ -173,7 +173,7 @@
 - [Pro Git book](https://git-scm.com/book/zh/v2)
 - [Clang’s documentation! — Clang 6 documentation](http://clang.llvm.org)
 - [Node.js](https://nodejs.org/zh-cn/)
-
+- [Jenkins](https://jenkins.io)
 
 ---
 
@@ -1147,5 +1147,4 @@ more
 ### Misc ( ͡° ͜ʖ ͡°)
 - https://www.lennyfaces.net
 - https://textfac.es
-
 
