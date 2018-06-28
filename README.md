@@ -127,6 +127,7 @@
 - [阿里中间件团队博客](http://jm.taobao.org)
 - [Bugly技术团队博客 | 一种愉悦的开发方式](https://buglydevteam.github.io)
 - [IBM developerWorks 中国 / Overview](https://www.ibm.com/developerworks/cn/security/)
+- [Planet MySQL](http://planet.mysql.com)
 
 #### Personal Blog
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com)
