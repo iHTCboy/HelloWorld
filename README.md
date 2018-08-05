@@ -158,6 +158,7 @@
 - [Laravel 视频教程 - CODECASTS](https://www.codecasts.com)
 - [慕课网-程序员的梦工厂](http://www.imooc.com)
 - [菜鸟教程 - 学的不仅是技术，更是梦想！](http://www.runoob.com)
+- [LearnOpenGL CN](https://learnopengl-cn.github.io)
 
 ---
 
