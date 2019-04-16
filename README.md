@@ -22,24 +22,25 @@
 
 ### iOS Developer
 
-常用苹果开发者网页
-网页  链接  说明
-- App Store Connect	https://appstoreconnect.apple.com/login	App管理后台
-- Apple Developer	https://developer.apple.com	苹果开发者网站
-- Apple Dev Member Center *	https://developer.apple.com/membercenter/index.action	苹果开发者后台
-- News - Apple Developer	https://developer.apple.com/news/	苹果开发新闻
-- Search - Apple Developer	https://developer.apple.com/search/	苹果开发搜索
-- Documentation Archive	https://developer.apple.com/library/archive/navigation/	苹果开发文档库
-- App Store 审核指南	https://developer.apple.com/cn/app-store/review/guidelines/	苹果审核条款（中文）
-- App Store Review Guidelines	https://developer.apple.com/app-store/review/guidelines/	苹果审核条款（英文）
-- Contact the App Review Team *	https://developer.apple.com//contact/app-store/?topic	联系苹果审核人员
-- Tell Us Your Story *	https://developer.apple.com//contact/app-store/promote/	申请App推荐
-- Human Interface Guidelines	https://developer.apple.com/design/human-interface-guidelines/	苹果开发人机交互指南
-- iTuns 报告问题 *	https://reportaproblem.apple.com	申请内购退款
-- App Store Connect	https://developer.apple.com/cn/app-store-connect/	AppStore开发网站
-- App Store Connect 帮助	https://help.apple.com/app-store-connect/	AppStore使用文档
-- 开发者帐户帮助	https://help.apple.com/developer-account/	苹果开发者后台帮助文档
-- Contact Us - Apple Developer	https://developer.apple.com//contact/#!/topic/select	请求苹果帮助
+常用苹果开发者网页:
+
+- [App Store Connect(App管理后台)](https://appstoreconnect.apple.com/login)
+- [Apple Developer(苹果开发者网站)](https://developer.apple.com)
+- [Apple Dev Member Center *(苹果开发者后台)](https://developer.apple.com/membercenter/index.action)	
+- [News - Apple Developer(苹果开发新闻)](https://developer.apple.com/news/)	
+- [Search - Apple Developer(苹果开发搜索)](https://developer.apple.com/search/)	
+- [Documentation Archive(苹果开发文档库)](https://developer.apple.com/library/archive/navigation/)	
+- [App Store 审核指南(苹果审核条款（中文）)](https://developer.apple.com/cn/app-store/review/guidelines/)	
+- [App Store Review Guidelines(苹果审核条款（英文）)](https://developer.apple.com/app-store/review/guidelines/)	
+- [Contact the App Review Team *(联系苹果审核人员)](https://developer.apple.com//contact/app-store/?topic)	
+- [Tell Us Your Story *(申请App推荐)](https://developer.apple.com//contact/app-store/promote/	)
+- [Human Interface Guidelines(苹果开发人机交互指南)](https://developer.apple.com/design/human-interface-guidelines/)	
+- [iTuns 报告问题 *(申请内购退款)](https://reportaproblem.apple.com)	
+- [App Store Connect(AppStore开发网站)](https://developer.apple.com/cn/app-store-connect/)	
+- [App Store Connect 帮助](https://help.apple.com/app-store-connect/)
+- [开发者帐户帮助(苹果开发者后台帮助文档](https://help.apple.com/developer-account/)	
+- [Contact Us - Apple Developer(请求苹果帮助)](https://developer.apple.com//contact/#!/topic/select)
+
 
 注*：链接需要先登陆开发者账号才能打开
 
