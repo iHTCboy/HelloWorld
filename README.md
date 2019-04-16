@@ -24,22 +24,22 @@
 
 常用苹果开发者网页:
 
-- [App Store Connect(App管理后台)](https://appstoreconnect.apple.com/login)
-- [Apple Developer(苹果开发者网站)](https://developer.apple.com)
-- [Apple Dev Member Center *(苹果开发者后台)](https://developer.apple.com/membercenter/index.action)	
-- [News - Apple Developer(苹果开发新闻)](https://developer.apple.com/news/)	
-- [Search - Apple Developer(苹果开发搜索)](https://developer.apple.com/search/)	
-- [Documentation Archive(苹果开发文档库)](https://developer.apple.com/library/archive/navigation/)	
-- [App Store 审核指南(苹果审核条款（中文）)](https://developer.apple.com/cn/app-store/review/guidelines/)	
-- [App Store Review Guidelines(苹果审核条款（英文）)](https://developer.apple.com/app-store/review/guidelines/)	
-- [Contact the App Review Team *(联系苹果审核人员)](https://developer.apple.com//contact/app-store/?topic)	
-- [Tell Us Your Story *(申请App推荐)](https://developer.apple.com//contact/app-store/promote/	)
-- [Human Interface Guidelines(苹果开发人机交互指南)](https://developer.apple.com/design/human-interface-guidelines/)	
-- [iTuns 报告问题 *(申请内购退款)](https://reportaproblem.apple.com)	
-- [App Store Connect(AppStore开发网站)](https://developer.apple.com/cn/app-store-connect/)	
+- [App Store Connect (App管理后台)](https://appstoreconnect.apple.com/login)
+- [Apple Developer (苹果开发者网站)](https://developer.apple.com)
+- [Apple Dev Member Center * (苹果开发者后台)](https://developer.apple.com/membercenter/index.action)	
+- [News - Apple Developer (苹果开发新闻)](https://developer.apple.com/news/)	
+- [Search - Apple Developer (苹果开发搜索)](https://developer.apple.com/search/)	
+- [Documentation Archive (苹果开发文档库)](https://developer.apple.com/library/archive/navigation/)	
+- [App Store 审核指南 (苹果审核条款（中文）)](https://developer.apple.com/cn/app-store/review/guidelines/)	
+- [App Store Review Guidelines (苹果审核条款（英文）)](https://developer.apple.com/app-store/review/guidelines/)	
+- [Contact the App Review Team * (联系苹果审核人员)](https://developer.apple.com//contact/app-store/?topic)	
+- [Tell Us Your Story * (申请App推荐)](https://developer.apple.com//contact/app-store/promote/	)
+- [Human Interface Guidelines (苹果开发人机交互指南)](https://developer.apple.com/design/human-interface-guidelines/)	
+- [iTuns 报告问题 * (申请内购退款)](https://reportaproblem.apple.com)	
+- [App Store Connect (AppStore开发网站)](https://developer.apple.com/cn/app-store-connect/)	
 - [App Store Connect 帮助](https://help.apple.com/app-store-connect/)
-- [开发者帐户帮助(苹果开发者后台帮助文档](https://help.apple.com/developer-account/)	
-- [Contact Us - Apple Developer(请求苹果帮助)](https://developer.apple.com//contact/#!/topic/select)
+- [开发者帐户帮助 (苹果开发者后台帮助文档](https://help.apple.com/developer-account/)	
+- [Contact Us (请求苹果帮助)](https://developer.apple.com//contact/#!/topic/select)
 
 
 注*：链接需要先登陆开发者账号才能打开
