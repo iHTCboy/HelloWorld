@@ -270,7 +270,7 @@
 - [BeeCloud | 全新的秒支付应用支付接口 支持移动支付 | 加速移动App开发](https://www.beecloud.cn)
 
 - [AppsFlyer Support](https://support.appsflyer.com/hc/zh-cn)
-- [Kakaogame SDK 3.0 Guide](https://tech-wiki.kakaogames.com:8443/display/SDK/1.3.+iOS+SDK+Installation)
+- [Kakaogame SDK 3.0 Guide](https://tech-wiki.kakaogames.com:8443)
 - [Kakao GameCenter](https://gamecenter.kakao.com)
 - [Facebook for Developers](https://developers.facebook.com)
 ---
