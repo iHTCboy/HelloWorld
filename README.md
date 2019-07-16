@@ -98,6 +98,7 @@
 - [Apple ATS 在线检测工具 - TrustAsia](https://www.trustasia.com/tools-ats-ios9-checker)
 - [CocoaPods.org](https://cocoapods.org)
 - [Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch and Apple TV.](https://ipsw.me)
+- [ipsw.me - IPSW Downloads](https://ipsw.me/)
 
 --- 
 ##### iOS Blog
