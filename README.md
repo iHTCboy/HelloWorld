@@ -1178,3 +1178,8 @@ more
 - https://www.lennyfaces.net
 - https://textfac.es
 
+
+
+## Life
+### Travel
+- https://www.seatguru.com
