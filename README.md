@@ -70,6 +70,11 @@
 - [Instruments User Guide: About Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652-CH3-SW1)
 - [Apple Platform SDK API Differences](http://codeworkshop.net/objc-diff/sdkdiffs/)
 
+##### Apple API
+- [App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+- [iTunes Store API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+
+
 ---
 
 ### Apple 产品大全
