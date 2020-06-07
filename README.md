@@ -131,6 +131,9 @@
 - [Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch and Apple TV.](https://ipsw.me)
 - [ipsw.me - IPSW Downloads](https://ipsw.me/)
 - [The (Unofficial) Apple Archive](https://www.applearchive.org/)
+- [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
+- [Carbon](https://carbon.now.sh/)
+
 
 --- 
 ##### iOS Blog
