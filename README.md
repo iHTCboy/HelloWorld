@@ -51,8 +51,10 @@
 - [Contact the App Review Team 申请加速审核](https://developer.apple.com/contact/app-store/?topic=expedite)
 - [Promote - App Store - Contact Us - Apple Developer](https://developer.apple.com//contact/app-store/promote/)
 - [Apple Developer Forums](https://forums.developer.apple.com/welcome)
+- [App Store 推广图案准则](https://help.apple.com/asc/appspromoart/#/)
 
 ##### iOS Document & News
+- [简体中文文档 - Apple Developer](https://developer.apple.com/cn/documentation/)
 - [Search - Apple Developer](https://developer.apple.com/search/)
 - [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
 - [News and Updates - Apple Developer](https://developer.apple.com/news/)
@@ -74,10 +76,20 @@
 - [iPhone 和 iPad 部署参考](https://support.apple.com/zh-cn/guide/deployment-reference-ios/welcome/web)
 - [描述文件管理器使用手册 - Apple 支持](https://support.apple.com/zh-cn/guide/profile-manager/welcome/mac)
 - [移动设备管理设置 - Apple 支持](https://support.apple.com/zh-cn/guide/mdm/welcome/web)
+- [Transporter 帮助](https://help.apple.com/itc/transporter/)
+- [Apple Search Ads (中国大陆) - 官方网站](https://searchads.apple.com/cn/)
+- [Apple Design Resources - Apple Developer](https://developer.apple.com/design/resources/)
+- [Apple Security Bounty - Apple Developer](https://developer.apple.com/security-bounty/)
+
+
 
 ##### Apple API
 - [App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
 - [iTunes Store API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+- [Apple - Support - System Status](https://www.apple.com.cn/cn/support/systemstatus/)
+- [ RSS Feed 生成工具 - RSS Generator](https://rss.itunes.apple.com/zh-cn)
+- [iTunes Link Maker](https://linkmaker.itunes.apple.com/en-us?country=us&mediaType=apple_music)
+- [Transporter User Guide 2.0](https://help.apple.com/itc/transporteruserguide/en.lproj/static.html)
 
 
 ---
