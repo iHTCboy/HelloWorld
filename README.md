@@ -80,7 +80,7 @@
 - [Apple Search Ads (中国大陆) - 官方网站](https://searchads.apple.com/cn/)
 - [Apple Design Resources - Apple Developer](https://developer.apple.com/design/resources/)
 - [Apple Security Bounty - Apple Developer](https://developer.apple.com/security-bounty/)
-
+- [Apple Services 合作伙伴计划](https://appleservices-console.partnerize.com/login/appleservices/zh_cn)
 
 
 ##### Apple API
