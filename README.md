@@ -202,6 +202,7 @@
 
 #### Personal Blog
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 
 
 ---
@@ -219,6 +220,8 @@
 ### Web
 - [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org)
 - [Website Speed Test - Image Analysis Tool by Cloudinary](https://webspeedtest.cloudinary.com)
+- [Wayback Machine](http://web.archive.org/)
+
 
 ---
 
@@ -250,7 +253,7 @@
 
 ---
 
-### Ofther Language
+### Other Language
 - [Ruby China](https://ruby-china.org)
 
 
