@@ -320,6 +320,7 @@
 - [Bugtags官网 - 移动时代首选Bug管理系统 | 简洁·高效·智能·云端管理](https://www.bugtags.com)
 - [bugclose | 简单，免费，够用的BUG管理工具](https://bugclose.com/index.html)
 - [BeeCloud | 全新的秒支付应用支付接口 支持移动支付 | 加速移动App开发](https://www.beecloud.cn)
+- [OpenAPI Specification - Version 3.0.3 | Swagger](https://swagger.io/specification/)
 
 - [AppsFlyer Support](https://support.appsflyer.com/hc/zh-cn)
 - [Kakaogame SDK 3.0 Guide](https://tech-wiki.kakaogames.com:8443)
